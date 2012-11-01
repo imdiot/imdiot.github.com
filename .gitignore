@@ -8,3 +8,13 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+
+*.pyc
+*.pyo
+*~
+*.orig
+*.swp
+*.swo
+*.swn
+*.swm
+*.BAK
