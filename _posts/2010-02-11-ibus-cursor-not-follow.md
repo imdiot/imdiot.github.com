@@ -2,10 +2,9 @@
 layout: post
 title: "对ibus输入法不跟随下了次狠手"
 description: ""
-category: "linux"
+category:
 tags: ["ibus-sunpinyin"]
 ---
-{% include JB/setup %}
 
 以前我的Arch中的ibus输入框就一直不跟随
 

@@ -5,7 +5,6 @@ description:
 category: 
 tags: ["buzz", "gmail"]
 ---
-{% include JB/setup %}
 
 刚刚打开Gmail
 
@@ -13,4 +12,4 @@ tags: ["buzz", "gmail"]
 
 虽然还不知道到底能有些什么用
 
-![buzz](/assets/images/2010-02-11-buzz.jpg)
+![buzz](/images/2010-02-11-buzz.jpg)

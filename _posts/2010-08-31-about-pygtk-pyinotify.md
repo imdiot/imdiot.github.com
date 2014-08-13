@@ -2,10 +2,9 @@
 layout: post
 title: "关于PyGTK+pyinotify"
 description: ""
-category: "python"
+category:
 tags: ["python", "pyinotify"]
 ---
-{% include JB/setup %}
 
 首先是pyinotify官网上的一个例子
 

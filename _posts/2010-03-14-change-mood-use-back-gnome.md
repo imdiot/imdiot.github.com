@@ -2,10 +2,9 @@
 layout: post
 title: "换换心情 用回gnome"
 description: ""
-category: "linux"
+category:
 tags: ["linux", "gnome"]
 ---
-{% include JB/setup %}
 
 一直在用OpenBox
 
@@ -21,4 +20,4 @@ maximus:在最大化时去除窗口边框，窗口控制移到任务栏上
 
 展示一下效果
 
-<img src="/assets/images/2010-03-14-screenshot.png" width="100%" />
+<img src="/images/2010-03-14-screenshot.png" width="100%" />

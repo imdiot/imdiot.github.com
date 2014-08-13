@@ -2,10 +2,9 @@
 layout: post
 title: "整理垃圾小记"
 description: ""
-category: "other"
+category:
 tags: []
 ---
-{% include JB/setup %}
 
 家里把车库租出去了 买了一大堆没用的东西 还有一大堆搬上来的书本 说让我挑挑 看看还有没有什么有用的 因为曾经有次爸爸不小心把我的科幻世界奇幻版的创刊号卖掉了……
 

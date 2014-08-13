@@ -2,10 +2,9 @@
 layout: post
 title: "查看memcache所有key的小程序"
 description: ""
-category: "python"
+category:
 tags: ["python", "memcache"]
 ---
-{% include JB/setup %}
 
 本地开发过程中经常要查看内容写没写到memcache中，一般看一下memcache中有没有想对应的key就好了，懒得用telnet连接memcache，自带的memcached-tool输出又不怎么方便阅读，so 写了一个简单的查看memcache中key的python小程序
 

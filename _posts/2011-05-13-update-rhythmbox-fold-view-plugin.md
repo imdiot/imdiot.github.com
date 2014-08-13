@@ -2,10 +2,9 @@
 layout: post
 title: "更新了下Rhythmbox文件夹视图插件"
 description: ""
-category: "linux"
+category:
 tags: ["linux", "rhythmbox", "plugin"]
 ---
-{% include JB/setup %}
 
 本来想这个东西没什么用 烂尾了算了
 
@@ -27,6 +26,6 @@ tags: ["linux", "rhythmbox", "plugin"]
 
 欢迎大家各种使用各种围观~~~~
 
-<img src="/assets/images/2011-05-13-update-rhythmbox-fold-view-plugin.png" width="100%" />
+<img src="/images/2011-05-13-update-rhythmbox-fold-view-plugin.png" width="100%" />
 
 PS:项目地址也从google code搬到了github上,[https://github.com/imdiot/rhythmbox_folder_view](PS:项目地址也从google code搬到了github上,https://github.com/imdiot/rhythmbox_folder_view)

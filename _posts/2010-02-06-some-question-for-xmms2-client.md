@@ -2,10 +2,9 @@
 layout: post
 title: "有关写xmms2 client的一个很奇怪的问题"
 description: ""
-category: "python"
+category:
 tags: ["python", "xmms2"]
 ---
-{% include JB/setup %}
 
 在初始化好xmmsclient.XMMS实例后
 

@@ -2,10 +2,9 @@
 layout: post
 title: "加速yaourt----yaourt与makepkg调用其他下载工具"
 description: ""
-category: "linux"
+category:
 tags: ["archlinux", "yaourt", "makepkg"]
 ---
-{% include JB/setup %}
 
 各位用archlinux的朋友们都知道pacman能够调用外部下载工具来代替默认的wget来给pacman提速
 

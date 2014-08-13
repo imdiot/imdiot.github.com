@@ -2,10 +2,9 @@
 layout: post
 title: "简单的gnome自动换壁纸"
 description: ""
-category: "python"
+category:
 tags: ["python", "gnome", "linux", "壁纸"]
 ---
-{% include JB/setup %}
 
 闲的没事写着玩玩
 

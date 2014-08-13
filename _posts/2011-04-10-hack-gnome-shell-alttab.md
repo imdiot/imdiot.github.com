@@ -2,10 +2,9 @@
 layout: post
 title: "小hack一下gnome-shell的alt+tab"
 description: ""
-category: "linux"
+category:
 tags: ["linux", "gnome-shell"]
 ---
-{% include JB/setup %}
 
 [TualatriX](http://imtx.me/)在《[GNOME Shell的“Alt＋Tab”革新](http://imtx.me/archives/1500.html)》中介绍了gnome-shell的alt+tab 那时我还没用过gnome-shell 虽说之后偶尔耍耍gnome-shell 但也是浅尝即止 这几天有时间好好玩了玩gnome-sehll
 

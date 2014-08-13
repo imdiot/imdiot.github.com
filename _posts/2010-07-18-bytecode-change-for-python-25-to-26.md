@@ -2,10 +2,9 @@
 layout: post
 title: "python2.5到2.6字节码指令变化点点发现(想到什么再写什么)"
 description: ""
-category: "python"
+category:
 tags: ["pyhtnon", "字节码"]
 ---
-{% include JB/setup %}
 
 《Python源码剖析》中用的Python版本为2.5.2
 

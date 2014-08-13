@@ -2,10 +2,9 @@
 layout: post
 title: "gnome-shell alt+tab 扩展"
 description: ""
-category: "linux"
+category:
 tags: ["linux", "gnome-shell"]
 ---
-{% include JB/setup %}
 
 详情见《小hack一下gnome-shell的alt+tab》and《[GNOME Shell的“Alt＋Tab”革新](http://imtx.me/archives/1500.html)》
 

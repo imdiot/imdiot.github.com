@@ -2,10 +2,9 @@
 layout: post
 title: "将mutter作为默认窗口管理器"
 description: ""
-category: "linux"
+category:
 tags: ["linux", "mutt", "dm"]
 ---
-{% include JB/setup %}
 
 对于我这种喜欢终端透明等一点点的特效 又不喜compiz那庞大体积的人来说 mutter确实是一个比较不错的选择
 

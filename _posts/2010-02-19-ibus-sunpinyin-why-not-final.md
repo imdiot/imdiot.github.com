@@ -2,10 +2,9 @@
 layout: post
 title: "ibus-sunpinyin怎么还不final"
 description: ""
-category: "linux"
+category:
 tags: ["ibus-sunpinyin"]
 ---
-{% include JB/setup %}
 
 今天刚起床不知怎么就上了下AUR
 

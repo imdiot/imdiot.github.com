@@ -2,10 +2,9 @@
 layout: post
 title: "Linux+SkyEye+μC/OS II"
 description: ""
-category: "linux"
+category:
 tags: ["linux", "skyeye", "uc/os"]
 ---
-{% include JB/setup %}
 
 这学期操作系统课设
 

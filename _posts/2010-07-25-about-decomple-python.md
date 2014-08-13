@@ -2,10 +2,9 @@
 layout: post
 title: "有关python的反编译"
 description: ""
-category: "python"
+category:
 tags: ["python", "反编译"]
 ---
-{% include JB/setup %}
 
 最近把买了一直还没看的《Python源码剖析》看了看 获益颇多 直接导致了对python的反编译产生了不小的兴趣
 

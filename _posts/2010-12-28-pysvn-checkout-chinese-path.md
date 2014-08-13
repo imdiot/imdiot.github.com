@@ -2,10 +2,9 @@
 layout: post
 title: "PySVN checkout时中文路径的解决"
 description: ""
-category: "python"
+category:
 tags: ["python", "pysvn"]
 ---
-{% include JB/setup %}
 
 在玩PySVN时发现如果文件路径出现中文的话会出现"Can't convert string from 'UTF-8' to native encoding:"错误
 

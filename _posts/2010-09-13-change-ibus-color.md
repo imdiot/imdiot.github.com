@@ -2,10 +2,9 @@
 layout: post
 title: "修改ibus的颜色"
 description: ""
-category: "linux"
+category:
 tags: ["ibus", "输入法"]
 ---
-{% include JB/setup %}
 
 看久了千篇一律的ibus输入法的输入框总会有点腻了的感觉
 
@@ -14,19 +13,19 @@ so 稍微hack了一下代码改了一下颜色~
 
 原版ibus-pinyin
 
-![原版ibus-pinyin](/assets/images/2010-09-13-change-ibus-color-1.png)
+![原版ibus-pinyin](/images/2010-09-13-change-ibus-color-1.png)
 
 改版ibus-pinyin
 
-![改版ibus-pinyin](/assets/images/2010-09-13-change-ibus-color-2.png)
+![改版ibus-pinyin](/images/2010-09-13-change-ibus-color-2.png)
 
 改版ibus-sunpinyin
 
-![改版ibus-sunpinyin](/assets/images/2010-09-13-change-ibus-color-3.png)
+![改版ibus-sunpinyin](/images/2010-09-13-change-ibus-color-3.png)
 
 改版ibus-cloud-pinyin
 
-![改版ibus-cloud-pinyin](/assets/images/2010-09-13-change-ibus-color-4.png)
+![改版ibus-cloud-pinyin](/images/2010-09-13-change-ibus-color-4.png)
 
 这下有了点fcitx的感觉了吧~~~
 

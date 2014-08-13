@@ -2,10 +2,9 @@
 layout: post
 title: "Rhythmbox文件夹视图浏览的插件"
 description: ""
-category: "python"
+category:
 tags: ["rhythmbox", "plugin"]
 ---
-{% include JB/setup %}
 
 #介绍
 
@@ -23,7 +22,7 @@ Rhythmbox浏览音乐时只能按照音乐文件的信息来分类
 
 #截图
 
-<img src="/assets/images/2010-09-23-rhythmbox-fold-view-plugin.png" width="100%" />
+<img src="/images/2010-09-23-rhythmbox-fold-view-plugin.png" width="100%" />
 
 #安装
 

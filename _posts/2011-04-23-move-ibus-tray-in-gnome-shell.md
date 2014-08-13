@@ -2,10 +2,9 @@
 layout: post
 title: "来~让我们把gnome-shell中ibus的tray挪挪地儿~~~"
 description: ""
-category: "linux"
+category:
 tags: ["linux", "gnome-shell", "ibus"]
 ---
-{% include JB/setup %}
 
 在很久很久以前 那时的gnome-shell的系统托盘还在右上角
 
@@ -23,7 +22,7 @@ status-icon有了CSS的外衣住在了右上角 message-icon则搬到了右下�
 
 下面就以ibus为例 让ibus的tray挪挪窝：
 
-<img src="/assets/images/2011-04-23-move-ibus-tray-in-gnome-shell-1.png" width="100%" />
+<img src="/images/2011-04-23-move-ibus-tray-in-gnome-shell-1.png" width="100%" />
 
 打开statusIconDispatcher.js文件
 
@@ -43,7 +42,7 @@ status-icon有了CSS的外衣住在了右上角 message-icon则搬到了右下�
 
 所以我们只要吧ibus-ui-gtk改成main.py就大功告成啦~~~
 
-<img src="/assets/images/2011-04-23-move-ibus-tray-in-gnome-shell-2.png" width="100%" />
+<img src="/images/2011-04-23-move-ibus-tray-in-gnome-shell-2.png" width="100%" />
 
 其实这根本就不是什么问题嘛 只要ibus的人和gnome-shell的人稍微沟通一些 下个版本大家一起做一两行的就该就OK了嘛
 
