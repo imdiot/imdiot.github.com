@@ -8,6 +8,6 @@ twitter_username: imdiot
 github_username: imdiot
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 excerpt_separator: ""
