@@ -11,3 +11,5 @@ github_username: imdiot
 markdown: redcarpet
 highlighter: pygments
 excerpt_separator: ""
+paginate: 5
+paginate_path: "page:num"
