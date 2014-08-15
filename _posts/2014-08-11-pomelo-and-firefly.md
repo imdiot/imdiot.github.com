@@ -16,32 +16,6 @@ gevent的版本为了便于迁移，9miao又为gevent做了一个gtwisted的封�
 
 db层就不多说了，看了两眼应该是草草做的，够用但不好看。
 
-但是再往里看看到这个就眉头一紧了
-{% highlight python linenos %}
-    def _run(self):
-        """
-        """
-        self.connectionMade()
-        try:
-            while True:
-                data = self.transport.recv(1024)
-                if not data:
-                    break
-#                 gevent.spawn(self.dataReceived,data)
-                self.dataReceived(data)
-        except Exception,e:
-            if not isinstance(e, socket.error):
-                log.err()
-            self.connectionLost(reason=e)
-        else:
-            self.connectionLost(reason=None)
-        finally:
-            self.transport.close()
-            self.kill()
-{% endhighlight %}
-
-这个明显的网络io阻塞了啊，不知道这样写有没有发挥出gevent的优势来。
-
 不过想起以前看到网易出的Pomelo，虽然是node.js但，但可以参考的嘛，继续草草一看，哇擦，代码各种整洁高大上，还有wiki看。
 
 就它了，这几天好好研读一下Pomelo。
