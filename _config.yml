@@ -9,7 +9,10 @@ github_username: imdiot
 
 # Build settings
 markdown: redcarpet
-highlighter: pygments
+#highlighter: pygments
+highlighter: rouge
 excerpt_separator: ""
 paginate: 5
 paginate_path: "page:num"
+
+gems: [jekyll-paginate]
